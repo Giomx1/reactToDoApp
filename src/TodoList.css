@@ -1,0 +1,14 @@
+.ui.middle.aligned.selection.list {
+  display: blcok;
+  padding: 15px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+@media only screen and (max-width: 768px) {
+  .ui.divided.list {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+  }
+}

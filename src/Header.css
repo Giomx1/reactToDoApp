@@ -1,0 +1,11 @@
+.ui.three.column.container {
+  display: flex;
+  padding-top: 45px;
+  width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+  .ui.header.title {
+    font-size: 30px;
+  }
+}
